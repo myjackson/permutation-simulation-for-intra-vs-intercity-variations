@@ -1,4 +1,4 @@
-setwd("C:/Users/myjac/OneDrive - University of Calgary/1. Jangwoo_WBE/3_Data_Analysis/a_WBE_Metagenomics/15_Global_SES")
+setwd("C:/Users/.../Your Directory Path/.../15_Global_SES")
 data_folder = "GitHub"
 
 ########### CGY2021 - dissimilarity between Calgary's nerighborhoods
