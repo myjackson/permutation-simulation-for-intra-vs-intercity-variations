@@ -5,7 +5,7 @@
 
 ### Description
 The workflow (*Example_Run_v2.R & *Permutation_v2.R), proposed in this study, enables 
-(1) to calculate the median of dissimilarity distances among 28 randomly selected pairs comparing two different human development index (HDI) categories (e..g, H:H, H:UM, ...), then compare with that among 8 Calgary neighborhoods (CGY:CGY)
+(1) to calculate the median of dissimilarity distances among 28 randomly selected pairs comparing two different human development index (HDI) categories (e.g., H:H, H:UM, H:LM, and H:L), then compare with that among 8 Calgary neighborhoods (CGY:CGY)
 (2) to repeat aforementioned step for 100 times, then calculate p-value, according to (Eq.6) shown in the manuscript
 
 For details, plase see Fig. 5 and/or the section Methods: Monte-Carlo Permutation Simulation, in the manuscript.
