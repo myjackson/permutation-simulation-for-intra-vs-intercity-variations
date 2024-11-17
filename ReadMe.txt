@@ -1,7 +1,7 @@
 ### Date : March 14 2024
 ### Written by Jangwoo Lee, PhD (University of Calgary, jangwoo.lee@ucalgary.ca)
 ### Related Manuscript : Lee et al., 2024 Communications Medicine, Accepted
-### Doi (of this code) : https://doi.org/10.5281/zenodo.14176145
+### Doi (of this code, v1.2) : https://doi.org/10.5281/zenodo.14176145
 
 ### Description
 The workflow (*Example_Run_v2.R & *Permutation_v2.R), proposed in this study, enables 
